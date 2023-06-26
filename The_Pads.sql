@@ -1,3 +1,5 @@
+/********************MY SQL**************************************
+
 /*
 Generate the following two result sets:
 
