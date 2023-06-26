@@ -15,7 +15,7 @@ Input Format
 The CITY table is described as follows:
 https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true&h_r=next-challenge&h_v=zen
 */
-
 Select Sum(POPULATION)
 From CITY
 Where DISTRICT Like "California"
+
